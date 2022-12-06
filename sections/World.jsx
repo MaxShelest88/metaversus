@@ -52,7 +52,7 @@ const World = () => (
             className="w-full h-full"
           />
         </div>
-        <div className="absolute top-[5%] right-[20%] w-[220px] h-[170px] p-[8px] rounded-[32px] bg-[#5d6680]">
+        <div className="absolute lg:block hidden top-[5%] right-[20%] w-[220px] h-[170px] p-[8px] rounded-[32px] bg-[#5d6680]">
           <img
             src="place-01.png"
             alt="place"
@@ -88,7 +88,7 @@ const World = () => (
             Hawkins Labs
           </h2>
         </div>
-        <div className="absolute top-[40%] left-[20%] w-[220px] h-[170px] p-[8px] rounded-[32px] bg-[#5d6680]">
+        <div className="absolute lg:block hidden top-[40%] left-[20%] w-[220px] h-[170px] p-[8px] rounded-[32px] bg-[#5d6680]">
           <img
             src="place-02.png"
             alt="place"
